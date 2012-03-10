@@ -1,0 +1,12 @@
+C:\Users\Administrator\Downloads\multitouchvista-30935\Main Source\Output\AddIns\NITEProvider\NITEProvider.dll
+C:\Users\Administrator\Downloads\multitouchvista-30935\Main Source\Output\AddIns\NITEProvider\NITEProvider.pdb
+C:\Users\Administrator\Downloads\multitouchvista-30935\Main Source\InputProviders\KinectVistaMultitouch\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\multitouchvista-30935\Main Source\InputProviders\KinectVistaMultitouch\obj\Release\NITEProvider.dll
+C:\Users\Administrator\Downloads\multitouchvista-30935\Main Source\InputProviders\KinectVistaMultitouch\obj\Release\NITEProvider.pdb
+C:\Users\Administrator\Downloads\multitouchvista-30935\Main Source\InputProviders\KinectVistaMultitouch\obj\Release\NITEProvider.debugPoints.resources
+C:\Users\Administrator\Downloads\multitouchvista-30935\Main Source\InputProviders\KinectVistaMultitouch\obj\Release\NITEProvider.Properties.Resources.resources
+C:\Users\Administrator\Downloads\multitouchvista-30935\Main Source\InputProviders\KinectVistaMultitouch\obj\Release\NITEProvider.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\multitouchvista-30935\Main Source\InputProviders\KinectVistaMultitouch\obj\Release\NITEProvider_MarkupCompile.cache
+C:\Users\Administrator\Downloads\multitouchvista-30935\Main Source\InputProviders\KinectVistaMultitouch\obj\Release\NITEProvider.g.resources
+C:\Users\Administrator\Downloads\multitouchvista-30935\Main Source\InputProviders\KinectVistaMultitouch\obj\Release\NiteConfiguration.baml
+C:\Users\Administrator\Downloads\multitouchvista-30935\Main Source\InputProviders\KinectVistaMultitouch\obj\Release\NiteConfiguration.g.cs
